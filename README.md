@@ -8,6 +8,8 @@ The purpose of this Educational Technology Plan is to identify the major hardwar
 ### Course
 
 Enrichment: Intro to Computer Science
+
+
 The course offered to students will be an enrichment/elective style course as we don't currently offer Computer Science and are only able to fit the course in as an elective. Students currently take 2 ELA classes, a math class, a science class, a social studies class, PE 2 days a week with an enrichment class the alternating 2 days, and a music appreciation class on Mondays. The enrichment class used to be offered where students could choose their elective based on interest however with the new Student Information System the school adopted, we are no longer able to offer elective choices and all students are kept with one class the entire year for their elective. As such, I am thinking I will be able to offer an Intro to Computer Science with the class at the beginning of the year for all students, and then make an extension to the Introduction course, where some students will complete the next level computer science course while the other students have an alternative choice for their enrichment at that time.
 Grade Level: 7th and 8th Grade
 
