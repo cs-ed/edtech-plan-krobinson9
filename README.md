@@ -37,13 +37,28 @@ The teacher will use the MacOS software installed on the school laptop. The smar
 
 Students will need chromebooks able to run the most recent ChromeOS update. (I will have to check what that is...)
 
-Teacher will need MacBook Air with 16 GB of memory.
+Teacher will need MacBook Air - M1 2020, Apple M1 Chip, 16 GB Memory, 500 GB Flash Storage
 
 ### Application
 
 Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
 in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+
+-The first 2 weeks of the 12 week course will be spent introducing the basics of computer science, including what hardware and software is, and the requirements necessary for the operating systems that our students use and what they might want to look for when purchasing their own computers.
+
+-The next 2 weeks, students will learn the binary number system and how to convert from base 10 to base 2. There will be a worksheet for students to complete with partners on day 7 and then we will correct in class on day 8 for immediate feedback for students.
+
+-The following 2 weeks will be introducing students to scratch and completing their first scratch project - getting a sprite to bounce off the walls without using the bounce feature. 
+This will ensure students can start the sprite moving, set boundaries for the sprite's movement, as well as bouncing the sprite off the walls without having the sprite's movement stop.
+
+- The next two weeks will have the students creating a 'falling' game, much like we did in our CSED 500 class this last summer. It was a great way to learn how to repeat the movement of the sprite and learn how to add mulitple sprites. I know I will have some students who will take longer than others, so I will have an additional assignment for students who finish the 'falling' game with time to spare. I also want students to work together for this one. I think the pair programming would work really well for this assignment as students can have the support of an extra set of eyes while still being responsible for their own work. Plus, it gives them time to practice with another student before they get to work on their final project.
+
+-The last 4 weeks of class will have the students working on their final projects for Intro to Computer Science. I want students to create a game based on "frogger", again like we did in our CSED 500 class this summer. It was a great way to learn the "while" function and I think it provides enough space for students to really learn how to develop and write the functions for multiple sprites with movement, boundaries, and even adding functions including a score.
+
+I plan to have the first day of each 2 week mini-unit be an introductory day, with the concepts being presented whole group. If there is time, I hope to have students actively learning, google forms to survey students with an exit ticket, as well as worksheets and other online assignments to keep students focused and involved.  Days 2-4 in the mini-units are going to be work days with problets that either are auto-graded or are graded whole class so students have immediate feedback.  I will enter grades in Infinite Campus every other week, one participation grade and one assignment grade so students are aware of their progress in the course.
+
+
 
 ### Impacts
 
