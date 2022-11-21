@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9404774&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-The purpose of this Educational Technology Plan is to identify the major hardware and software requirements, describe the network, and analyze the software necessary for the Intro to Computer Science Course offered to 7th and 8th grade students at Pacific Union Elementary School in Arcata, CA.
+The purpose of this Educational Technology Plan is to identify the major hardware requirements, describe the network, and analyze the software necessary for the Intro to Computer Science Course offered to 7th and 8th grade students at Pacific Union Elementary School in Arcata, CA.
 
 ## Context
 
@@ -10,7 +10,10 @@ The purpose of this Educational Technology Plan is to identify the major hardwar
 Enrichment: Intro to Computer Science
 
 
-The course offered to students will be an enrichment/elective style course as we don't currently offer Computer Science and are only able to fit the course in as an elective. Students currently take 2 ELA classes, a math class, a science class, a social studies class, PE 2 days a week with an enrichment class the alternating 2 days, and a music appreciation class on Mondays. The enrichment class used to be offered where students could choose their elective based on interest however with the new Student Information System the school adopted, we are no longer able to offer elective choices and all students are kept with one class the entire year for their elective. As such, I am thinking I will be able to offer an Intro to Computer Science with the class at the beginning of the year for all students, and then make an extension to the Introduction course, where some students will complete the next level computer science course while the other students have an alternative choice for their enrichment at that time.
+The course offered to students will be an enrichment/elective style course as we don't currently offer Computer Science and are only able to fit the course in as an elective. Students currently take 2 ELA classes, a math class, a science class, a social studies class, PE 2 days a week with an enrichment class the alternating 2 days, and a music appreciation class on Mondays.  With this schedule the enrichment class will be 45-50 minutes 2 days a week. The school year is separated into trimesters, with 3 grading periods that are about 12 weeks long. 
+
+The enrichment class used to be offered where students could choose their elective based on interest however with the new Student Information System the school adopted, we are no longer able to offer elective choices and all students are kept with one class the entire year for their elective. As such, I am thinking I will be able to offer an Intro to Computer Science with the class at the beginning of the year for all students that would last the first 12 weeks for a total of 24 class meetings, and then make an extension to the Introduction course, where some students will complete the next level computer science course during the next 12 weeks while the other students have an alternative choice for their enrichment in the same class period.
+
 Grade Level: 7th and 8th Grade
 
 ### Situation
