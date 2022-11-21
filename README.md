@@ -41,10 +41,6 @@ Teacher will need MacBook Air - M1 2020, Apple M1 Chip, 16 GB Memory, 500 GB Fla
 
 ### Application
 
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
-
 -The first 2 weeks of the 12 week course will be spent introducing the basics of computer science, including what hardware and software is, and the requirements necessary for the operating systems that our students use and what they might want to look for when purchasing their own computers.
 
 -The next 2 weeks, students will learn the binary number system and how to convert from base 10 to base 2. There will be a worksheet for students to complete with partners on day 7 and then we will correct in class on day 8 for immediate feedback for students.
