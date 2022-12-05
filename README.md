@@ -35,7 +35,7 @@ The teacher will use the MacOS software installed on the school laptop. The smar
 
 ### Hardware Specifications
 
-Students will need chromebooks able to run the most recent ChromeOS update. (I will have to check what that is...)
+Students will need chromebooks able to run the most recent ChromeOS update. Right now our students have Chromebook 1.1 GHZ Celeron N3450 32 GB Hard Drive 4 GB Ram
 
 Teacher will need MacBook Air - M1 2020, Apple M1 Chip, 16 GB Memory, 500 GB Flash Storage
 
