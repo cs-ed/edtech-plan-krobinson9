@@ -59,4 +59,5 @@ I plan to have the first day of each 2 week mini-unit be an introductory day, wi
 ### Impacts
 
 I think this technology will help all students learn because there are multiple formats for learning and multiple modalities to show knowledge acquired in class. Some students will have the prior knowledge to complete assignments quickly, giving them extra time to work on extension assignments or help peers. I will allow students to show their creations and by allowing the time to collaborate it will foster a learning environment for all students.
+
 If we have to transition to virtual learning, most of the assignments are already online, so it would be a pretty seamless transition. The only difference would be meeting would have to be via zoom or google meets and in that case I would still have students share screens to collaborate and work together on assignments.
